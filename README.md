@@ -1,5 +1,5 @@
 # Script completo para análise bibliométrica no R com Bibliometrix
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23069612.svg)](https://doi.org/10.5281/zenodo.23069612)
+[![DOI](https://zenodo.org/badge/1396586269.svg)](https://doi.org/10.5281/zenodo.23069611)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![R](https://img.shields.io/badge/R-%E2%89%A5%204.1-blue.svg)](https://www.r-project.org/)
 
@@ -542,7 +542,7 @@ Este repositório está arquivado no Zenodo e possui DOI permanente.
 
 **APA 7:**
 
-> Raposo, L. (2026). *bibliometria: scripts em R para análise bibliométrica com bibliometrix* (Versão 1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21959591](https://doi.org/10.5281/zenodo.21959591)
+> Raposo, L. (2026). *bibliometria: scripts em R para análise bibliométrica com bibliometrix* (Versão 1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23069611
 
 **BibTeX:**
 
@@ -553,12 +553,12 @@ Este repositório está arquivado no Zenodo e possui DOI permanente.
   year      = {2026},
   version   = {v1},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.21959591},
+  doi       = {10.5281/zenodo.23069611},
   url       = {https://github.com/lararaposo/bibliometria}
 }
 ```
 
-O DOI `10.5281/zenodo.21959591` é o **DOI de conceito**: aponta sempre para a versão mais recente. Para citar uma versão específica, use o DOI daquela versão (v1: `10.5281/zenodo.21959592`).
+O DOI `10.5281/zenodo.23069611` é o **DOI de conceito**: aponta sempre para a versão mais recente. Para citar uma versão específica, use o DOI daquela versão (v1: `10.5281/zenodo.23069611`).
 
 O arquivo `CITATION.cff` na raiz do repositório alimenta o botão **"Cite this repository"** do GitHub.
 
