@@ -1,5 +1,5 @@
 # Script completo para análise bibliométrica no R com Bibliometrix
-[![DOI](https://zenodo.org/badge/1335457929.svg)]( )
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23069612.svg)](https://doi.org/10.5281/zenodo.23069612)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![R](https://img.shields.io/badge/R-%E2%89%A5%204.1-blue.svg)](https://www.r-project.org/)
 
