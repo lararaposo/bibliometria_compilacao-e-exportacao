@@ -1,7 +1,9 @@
 # Script completo para análise bibliométrica no R com Bibliometrix
+[![DOI](https://zenodo.org/badge/1335457929.svg)]( )
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![R](https://img.shields.io/badge/R-%E2%89%A5%204.1-blue.svg)](https://www.r-project.org/)
 
-Scripts em R para análise bibliométrica com o pacote [bibliometrix](https://github.com/massimoaria/bibliometrix).
-
+Script em R para análise bibliométrica (compilação de bases e exportação automática) com o pacote [bibliometrix](https://github.com/massimoaria/bibliometrix).
 ---
 
 ## Conteúdo do repositório
